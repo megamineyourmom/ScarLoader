@@ -20,7 +20,7 @@ ScarLoader currently supports:
 - 💎 Ultri
 
 More menus will be added over time.
-Soon:
+- Soon:
 - experience3
 - Sh9rk
 - Wraith
