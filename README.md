@@ -1,4 +1,4 @@
-# ScarLoade# 🚀 ScarLoader
+# ScarLoader
 
 **ScarLoader** is a Roblox script loader designed to make loading your favorite menus simple, fast, and convenient.
 
