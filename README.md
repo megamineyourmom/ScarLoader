@@ -48,3 +48,5 @@ Instead of searching for scripts across different websites or downloading files 
 > **Disclaimer**
 >
 > ScarLoader is provided for educational and testing purposes. Users are responsible for ensuring they comply with Roblox's Terms of Use and any applicable rules when using third-party software.
+
+[https://discord.gg/y3rKHdPGTF]
