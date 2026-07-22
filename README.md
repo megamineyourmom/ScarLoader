@@ -19,10 +19,10 @@ ScarLoader currently supports:
 - 🪐 Zorbit
 - 💎 Ultri
 -  Soon:
-  experience3
-  Sh9rk
-  Wraith
-  Sh9rk Slider
+- experience3
+- Sh9rk
+- Wraith
+- Sh9rk Slider
 
 More menus will be added over time.
 
