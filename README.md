@@ -18,13 +18,13 @@ ScarLoader currently supports:
 - 📋 PlinkBoard Menu
 - 🪐 Zorbit
 - 💎 Ultri
-  Soon:
+
+More menus will be added over time.
+Soon:
 - experience3
 - Sh9rk
 - Wraith
 - Sh9rk Slider
-
-More menus will be added over time.
 
 ## ⭐ Why ScarLoader?
 
