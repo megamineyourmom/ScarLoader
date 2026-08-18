@@ -18,6 +18,9 @@ ScarLoader currently supports:
 - 📋 PlinkBoard Menu
 - 🪐 Zorbit
 - 💎 Ultri
+- ⌚Sigma 67
+- 🤓MM2
+- 🎮Shlurp Dih
 
 More menus will be added over time.
 - Soon:
