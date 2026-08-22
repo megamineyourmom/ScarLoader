@@ -40,7 +40,7 @@ Instead of searching for scripts across different websites or downloading files 
 - Basic features
 - Regular updates
 
-### Premium
+### Premium + Premium Lifetime Loader
 - Access to all premium-supported menus
 - Faster updates
 - Exclusive features
