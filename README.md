@@ -23,7 +23,6 @@ ScarLoader currently supports:
 - 🎮Shlurp Dih
 
 More menus will be added over time.
-- Soon:
 - experience3
 - Sh9rk
 - Wraith
